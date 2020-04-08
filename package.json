@@ -1,0 +1,25 @@
+{
+  "name": "simple-2d-grid-toolset",
+  "version": "1.0.0",
+  "description": "A simple toolset for generating &amp; querying 2d spatial data structures, such as for map data arrays for games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvanderweele/simple-2d-grid-toolset.git"
+  },
+  "keywords": [
+    "spatial data structure",
+    "map grid",
+    "2d map grid",
+    "game development tools"
+  ],
+  "author": "Dave VanderWeele",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvanderweele/simple-2d-grid-toolset/issues"
+  },
+  "homepage": "https://github.com/dvanderweele/simple-2d-grid-toolset#readme"
+}
